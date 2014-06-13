@@ -1,3 +1,7 @@
+body{
+	background:url("http://i.imgur.com/ijJLB7C.jpg");
+}
+
 html {
     padding: 10px;
     font-family: Verdana, sans-serif;
@@ -9,5 +13,35 @@ html {
 }
 
 h1 {
-	
+	font-family:Impact;
+	font-size:80px;
 }
+
+h6 {
+	font-size:20px;
+	padding:19px;
+}
+
+p{
+	font-size:20px;
+}
+
+#message {
+	font-size:20px;
+	padding:10px;
+}
+
+input {
+	border-radius:5px;
+	background:#afedfe;
+	width:200px;
+	height:30px;
+	font-size:20px;
+}
+
+.container{
+	background:white;
+	height:900px;
+	padding:10px;
+}
+

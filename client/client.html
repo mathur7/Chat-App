@@ -3,26 +3,30 @@
 </head>
 
 <body>
+  <div class="container">
   {{> loginButtons align="right"}}<br>
   <h1>Chat Buddy</h1>
   {{> welcome }}
   {{> input}}
   {{> messages}}
+</div>
 </body>
 
 <template name="welcome">
-
-  <p>
+  <h6>
     Welcome to Chat Buddy! Please log in to show your username.
-  </p>
+  </h6>
 </template>
 
 <template name="messages">
   {{#each messages}}
-    <strong>{{name}}:</strong> {{message}}<br>
+    <p><strong>{{name}}:</strong> {{message}}</p><br>
   {{/each}}
 </template>
 
 <template name="input">
   <p>Message: <input type="text" id="message"></p>
 </template>
+
+
+
