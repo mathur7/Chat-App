@@ -1,6 +1,6 @@
 
 
-![Alternate text](http://airpair-blog.s3.amazonaws.com/wp-content/uploads/2014/02/meteor-logo.png)
+![Alternate text](http://mrcoles.com/media/img/meteor-js-animated.gif)
 
 
 
@@ -25,7 +25,7 @@
 * it uses DDP(Distributed Data Protocol) to send information back and forth between server and client
 
 
-#####More info on some lesser known terms
+#####More info on DDP
     
     DDP is a standard way to solve the biggest problem facing client-side JavaScript developers: 
     querying a server-side database, sending the results down to the client, and then 
