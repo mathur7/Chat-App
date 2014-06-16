@@ -27,9 +27,13 @@
 
 #####More info on some lesser known terms
     
-    DDP is a standard way to solve the biggest problem facing client-side JavaScript developers: querying a server-side database, sending the results down to the client, and then pushing changes to the client whenever anything changes in the database. 
+    DDP is a standard way to solve the biggest problem facing client-side JavaScript developers: 
+    querying a server-side database, sending the results down to the client, and then 
+    pushing changes to the client whenever anything changes in the database. 
     
-	DDP intelligently pulls your database to pick up changes and pushes them down to the client. And it can simulate your model code on the client, so your users see their screens update immediately without waiting for the network.
+	DDP intelligently pulls your database to pick up changes and pushes 
+	them down to the client. And it can simulate your model code on the 
+	client, so your users see their screens update immediately without waiting for the network.
 
 
 #####Getting started with Meteor
