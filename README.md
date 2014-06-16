@@ -4,7 +4,7 @@
 ![Alternate text](http://mrcoles.com/media/img/meteor-js-animated.gif)
 
 
-* is a an open-source, Javascript framework
+* it's an open-source, full stack Javascript framework
 * it uses Javascript on both front and backend
 * it has it's own hosting service and allows for easy deployment
 * it speeds up your Web app by transforming it into a single-page Web app. 
