@@ -1,9 +1,7 @@
 
+##What is Meteor?        
 
-
-
-
-##What is Meteor?        ![Alternate text](http://mrcoles.com/media/img/meteor-js-animated.gif)
+![Alternate text](http://mrcoles.com/media/img/meteor-js-animated.gif)
 
 
 * is a an open-source, Javascript framework
