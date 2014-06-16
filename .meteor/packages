@@ -8,3 +8,6 @@ autopublish
 insecure
 accounts-ui
 accounts-github
+less
+less-bootstrap-3
+font-awesome-4-less
